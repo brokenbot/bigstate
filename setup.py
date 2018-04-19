@@ -17,7 +17,7 @@ setup(
   classifiers = [
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',
-    'License :: OSI Approved :: BSD 3-Clause'
+    'License :: OSI Approved :: BSD License',
     'Programming Language :: Python :: 3'
   ],
   keywords = 'salt f5 bigip ltm',
