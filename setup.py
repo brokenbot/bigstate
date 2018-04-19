@@ -11,7 +11,6 @@ setup(
   version = '0.0.1',
   description = 'state modules for f5 bigips',
   long_description = long_description,
-  long_description_content_type = 'text/markdown',
   url = 'https://github.com/brokenbot/bigstate',
   author = 'David Sanderson',
   author_email = 'dave.d.sanderson@gmail.com',
